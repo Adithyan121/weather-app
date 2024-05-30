@@ -23,7 +23,7 @@ Installation
 1.	Clone the repository:
 sh
 Copy code
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Adithyan121/weather-app.git
 cd weather-app
 2.	Install front-end dependencies:
 sh
