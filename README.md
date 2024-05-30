@@ -1,25 +1,25 @@
-Weather Application
-Overview
+**Weather Application**
+**Overview**
 This Weather Application is a full-stack project that allows users to view current and historical weather data for various locations. The front-end is built with React and Material-UI, and the back-end uses Node.js, Express, and GraphQL to serve weather data from MongoDB and an external weather API.
 Features
 •	View Current Weather: Users can search for and view the current weather conditions for any location.
 •	Historical Weather Data: Users can view historical weather data for selected locations within specified date ranges.
 •	Dynamic Theme: The application's theme dynamically changes based on the current temperature of the searched location.
 •	GraphQL API: Provides endpoints to fetch current weather, historical weather data, and weather forecasts.
-Technologies Used
-Front-End
+**Technologies Used**
+**Front-End**
 •	React
 •	Material-UI
 •	React Router
 •	Axios
-Back-End
+**Back-End**
 •	Node.js
 •	Express
 •	GraphQL
 •	Mongoose (MongoDB)
 •	Axios
 •	dotenv
-Installation
+**Installation**
 1.	Clone the repository:
 sh
 Copy code
